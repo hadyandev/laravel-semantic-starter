@@ -12,3 +12,17 @@ This repo is my simple boilerplate for Laravel apps with Semantic UI. Here is so
 -   Font Awesome
 
 Feel free to use it.
+
+## Screenshot
+
+-   Register
+
+<p align="center"><img src="https://github.com/hadyandev/laravel-semantic-starter/blob/master/public/img/screenshot/register.png"></p>
+
+-   Login
+
+<p align="center"><img src="https://github.com/hadyandev/laravel-semantic-starter/blob/master/public/img/screenshot/login.png"></p>
+
+-   Dashboard
+
+<p align="center"><img src="https://github.com/hadyandev/laravel-semantic-starter/blob/master/public/img/screenshot/dashboard.png"></p>
